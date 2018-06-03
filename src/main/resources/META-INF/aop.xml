@@ -1,0 +1,5 @@
+<aspectj>
+	<aspects>
+		<aspect name="com.sitdh.thesis.demo.aop.BasicAspect" />
+	</aspects>
+</aspectj>
